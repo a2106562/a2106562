@@ -1,7 +1,7 @@
-### Hi there 👋
+### Benvingut al meu repo :)
 
 <!--
-**a2106562/a2106562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a2106562/a2106562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.👋
 
 Here are some ideas to get you started:
 
